@@ -1,0 +1,25 @@
+.container{
+    width: 100%;
+    height: 100%;
+    grid-template-columns: 1fr;
+    padding: 25px;
+    margin: 0 auto;
+}
+.title-container{
+    width: 100%;
+    margin: 0 auto;
+}
+.title-container h1{
+    font-size: 20px;
+}
+.controls{
+   width: 100%;
+   height: 30px;
+}
+.buttom{
+    height: 60px;
+}
+.form-container{
+    width: 100%;
+    height: auto;
+}
